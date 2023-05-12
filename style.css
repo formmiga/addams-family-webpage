@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(19, 19, 19);
+  text-align: center;
+}
+nav {
+  border-color: rgb(44, 44, 44);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 6px;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(190, 189, 189);
+}
+
+h1 {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+p {
+  color: rgb(190, 189, 189);
+  background-color: rgb(24, 24, 24);
+  border-color: rgb(44, 44, 44);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 6px;
+  padding: 15px;
+}
+img {
+  padding: 30px;
+}
+#members,
+#membersli li {
+  color: rgb(190, 189, 189);
+  list-style-type: none;
+  text-align: left;
+}
+
+a {
+  color: rgb(89, 27, 27);
+}
