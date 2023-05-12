@@ -1,6 +1,7 @@
 body {
   background-color: rgb(19, 19, 19);
   text-align: center;
+  margin: 0;
 }
 nav {
   border-color: rgb(44, 44, 44);
@@ -16,18 +17,19 @@ h3 {
 }
 
 h1 {
-  padding-top: 50px;
-  padding-bottom: 20px;
+  margin: 50px 20px;
 }
 
 p {
   color: rgb(190, 189, 189);
   background-color: rgb(24, 24, 24);
+  width: 700px;
   border-color: rgb(44, 44, 44);
   border-width: 1px;
   border-style: solid;
   border-radius: 6px;
-  padding: 15px;
+  padding: 10px;
+  margin: 20px auto;
 }
 img {
   padding: 30px;
@@ -36,7 +38,6 @@ img {
 #membersli li {
   color: rgb(190, 189, 189);
   list-style-type: none;
-  text-align: left;
 }
 
 a {
